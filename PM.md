@@ -12,7 +12,7 @@ Vi följde guiden vi fick genom hela arbetet. VI började med att göra en simpe
 
 ## Positiva erfarenheter
 
-Detta arbete har gått väldigt bra och jag tycker att arbetsättet har många fördelar. Att arbeta tillsammans i en grupp gör det roligare, mer interaktivt, enklare att komma på lösninar till problem. Det gick oftast bra med att se vad som var problemet genom att titta på vilka felmeddelanden man fick.
+Detta arbete har gått väldigt bra och jag tycker att arbetsättet har många fördelar. Att arbeta I ALC tillsammans i en grupp gör det roligare, mer interaktivt och enklare att komma på lösninar till problem. Det gick oftast bra med att se vad som var problemet genom att titta på vilka felmeddelanden man fick. Att arbeta igenom testerna funkade väldigt bra och man fick en tydlig känsla av att man rörde si framåt i arbetet och man kunde se vad vi behöver göra som nästa steg.
 
 ## Negativa erfarenheter
 
